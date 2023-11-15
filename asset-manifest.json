@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/axioscrud/static/css/main.fc5c2c69.css",
+    "main.js": "/axioscrud/static/js/main.28d272c4.js",
+    "index.html": "/axioscrud/index.html",
+    "main.fc5c2c69.css.map": "/axioscrud/static/css/main.fc5c2c69.css.map",
+    "main.28d272c4.js.map": "/axioscrud/static/js/main.28d272c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.28d272c4.js"
+  ]
+}
